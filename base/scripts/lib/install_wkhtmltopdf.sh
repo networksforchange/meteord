@@ -1,4 +1,4 @@
-# Install Wkhtmltopdf
+# Install wkhtmltopdf
 set -e
 WKHTMLTOPDF_TAR_FILE=wkhtmltox-0.12.4_linux-generic-amd64.tar.xz
 
