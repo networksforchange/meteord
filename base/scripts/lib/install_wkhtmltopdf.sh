@@ -1,4 +1,4 @@
-# Install PhantomJS
+# Install Wkhtmltopdf
 set -e
 apt-get update
 apt-get install libXrender1 -y
