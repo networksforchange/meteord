@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM datadog/docker-dd-agent
 MAINTAINER Jesse Rosenberger
 
 ENV METEORD_DIR /opt/meteord
